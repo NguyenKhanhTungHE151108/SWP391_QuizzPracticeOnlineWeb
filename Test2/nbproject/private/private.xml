@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/SWP/Test2/web/update.html</file>
+            <file>file:/E:/SWP/Test2/src/java/controller/Delete2Servlet.java</file>
+            <file>file:/E:/SWP/Test2/src/java/controller/Delete1Servlet.java</file>
+            <file>file:/E:/SWP/Test2/web/search2.html</file>
+            <file>file:/E:/SWP/Test2/src/java/controller/Search1Servlet.java</file>
+            <file>file:/E:/SWP/Test2/src/java/controller/SortServlet.java</file>
+            <file>file:/E:/SWP/Test2/web/insert.html</file>
+            <file>file:/E:/SWP/Test2/web/list1.jsp</file>
+            <file>file:/E:/SWP/Test2/src/java/model/MyDAO.java</file>
+            <file>file:/E:/SWP/Test2/src/java/controller/Search2Servlet.java</file>
+            <file>file:/E:/SWP/Test2/src/java/controller/ListServlet.java</file>
+            <file>file:/E:/SWP/Test2/web/index.html</file>
+            <file>file:/E:/SWP/Test2/src/java/controller/UpdateServlet.java</file>
+            <file>file:/E:/SWP/Test2/web/delete2.html</file>
+            <file>file:/E:/SWP/Test2/src/java/model/Teacher.java</file>
+            <file>file:/E:/SWP/Test2/src/java/controller/InsertServlet.java</file>
+            <file>file:/E:/SWP/Test2/web/delete2.jsp</file>
+            <file>file:/E:/SWP/Test2/src/java/model/DBContext.java</file>
+            <file>file:/E:/SWP/Test2/web/search1.html</file>
+            <file>file:/E:/SWP/Test2/web/list.jsp</file>
+            <file>file:/E:/SWP/Test2/src/java/model/TeacherDAO.java</file>
+            <file>file:/E:/SWP/Test2/web/sort.jsp</file>
+            <file>file:/E:/SWP/Test2/web/update.jsp</file>
+            <file>file:/E:/SWP/Test2/web/search1.jsp</file>
+            <file>file:/E:/SWP/Test2/web/delete1.html</file>
+        </group>
+    </open-files>
+</project-private>
